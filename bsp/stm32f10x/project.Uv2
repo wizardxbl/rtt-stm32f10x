@@ -64,6 +64,7 @@ File 6,1,<..\..\components\drivers\serial\serial.c><serial.c>
 File 6,1,<..\..\components\drivers\src\completion.c><completion.c>
 File 6,1,<..\..\components\drivers\src\dataqueue.c><dataqueue.c>
 File 6,1,<..\..\components\drivers\src\pipe.c><pipe.c>
+File 6,1,<..\..\components\drivers\src\portal.c><portal.c>
 File 6,1,<..\..\components\drivers\src\ringbuffer.c><ringbuffer.c>
 File 7,1,<..\..\components\finsh\cmd.c><cmd.c>
 File 7,1,<..\..\components\finsh\finsh_compiler.c><finsh_compiler.c>

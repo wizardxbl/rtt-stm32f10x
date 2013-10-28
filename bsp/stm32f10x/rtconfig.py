@@ -25,10 +25,10 @@ RT_USING_LCD_TYPE = 'SSD1289'
 
 if  CROSS_TOOL == 'gcc':
 	PLATFORM 	= 'gcc'
-	EXEC_PATH 	= 'D:/SourceryGCC/bin'
+	EXEC_PATH 	= r'C:\Program Files\CodeSourcery\Sourcery G++ Lite\bin'
 elif CROSS_TOOL == 'keil':
 	PLATFORM 	= 'armcc'
-	EXEC_PATH 	= 'C:/Keil'
+	EXEC_PATH 	= r'C:\Keil'
 elif CROSS_TOOL == 'iar':
 	PLATFORM 	= 'iar'
 	IAR_PATH 	= 'C:/Program Files/IAR Systems/Embedded Workbench 6.0 Evaluation'
